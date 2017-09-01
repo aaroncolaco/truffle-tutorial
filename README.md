@@ -101,3 +101,6 @@ contract TestAdoption {
 ```console
 truffle test
 ```
+
+## License
+MIT
